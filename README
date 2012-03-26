@@ -1,0 +1,7 @@
+TwitkaFly 3.3.0-3 API
+
+How to use;
+
+[[objc_getClass("LibTwitkaFly") sharedTwitkaFly] showSheetWithInitialText:@"Check out \"TwitkaFly\" on Cydia. It's wonderful!! http://twitkafly.wootylab.com" andInitialImage:nil];
+
+Feel free to email me if you have any questions.
